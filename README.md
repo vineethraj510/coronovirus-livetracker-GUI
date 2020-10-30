@@ -4,8 +4,11 @@ This is a simple GUI developed using the python Tkinter module. The aim of this 
 
 #Requirements For It To Work
 Python 3
+
 Tkinter module : It is a standard GUI library for python
+
 BeautifulSoup: For Webscraping
+
 requests module: For sending request to website or pages
 
 
